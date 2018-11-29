@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricfy</string>
+    <string name="player">Player</string>
+    <string name="matches">Matches</string>
+    <string name="calendar">Calendar</string>
+    <string name="clear">Clear</string>
+</resources>
